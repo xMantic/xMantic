@@ -56,19 +56,22 @@
 <h3 align="left">Tools:</h3>
 <p align="left">
 	<a href="https://www.jetbrains.com/idea/" target="_blank"> 
-		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="Intellij" width="40" height="40"/>
+		<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="Intellij" width="40" height="40"/>
 	</a>
 	<a href="https://www.jetbrains.com/clion/" target="_blank"> 
-		<img src="https://static-00.iconduck.com/assets.00/clion-icon-512x512-voz1nhcz.png" alt="CLion" width="40" height="40"/>
+		<img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" alt="CLion" width="40" height="40"/>
 	</a>
 	<a href="https://www.jetbrains.com/rider/" target="_blank"> 
-		<img src="https://assets.website-files.com/5db19bb5bc2c146525fed407/5df796b79fcc8fcb43a79084_rider_logo_300x300.png" alt="Rider" width="40" height="40"/>
+		<img src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" alt="Rider" width="40" height="40"/>
 	</a>
 	<a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
 		<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="40" height="40"/>
 	</a>
 	<a href="https://www.jetbrains.com/ruby/" target="_blank"> 
 		<img src="https://resources.jetbrains.com/storage/products/rubymine/img/meta/rubymine_logo_300x300.png" alt="Ruby" width="40" height="40"/>
+	</a>
+	<a href="https://www.jetbrains.com/webstorm/" target="_blank"> 
+		<img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="Webstorm" width="40" height="40"/>
 	</a>
 	<a href="https://code.visualstudio.com/" target="_blank"> 
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/>
