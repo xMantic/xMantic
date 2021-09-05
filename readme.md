@@ -4,9 +4,9 @@
 <br>
 <h3 align="left">Contact:</h3>
 
-- Email: xmantic@outlook.com
 - Discord: xMantic#3100
 - Discord Server: https://discord.xmantic.dev
+- Email: xmantic@outlook.com
 - MC-Market: https://www.mc-market.org/members/265219/
 - Spigot: https://www.spigotmc.org/members/xmantic.1116744/
 
